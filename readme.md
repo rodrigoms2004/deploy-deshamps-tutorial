@@ -39,5 +39,13 @@ Enter in https://vercel.com/, log using Github account
 https://deploy-deshamps-tutorial.vercel.app/
 
 
+## New branch
+
+```
+git checkout -b teste
+git commit -m 'nova pagina'
+git push origin teste
+```
+
 ### Useful links
 
