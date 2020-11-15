@@ -32,6 +32,12 @@ In package.json
 npm run dev
 ```
 
+### Deploy
+
+Enter in https://vercel.com/, log using Github account 
+
+https://deploy-deshamps-tutorial.vercel.app/
+
 
 ### Useful links
 
